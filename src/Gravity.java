@@ -1,4 +1,4 @@
-package gravity;
+package gravity.src;
 
 import java.util.HashMap;
 import java.util.Map;

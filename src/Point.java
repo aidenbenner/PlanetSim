@@ -1,4 +1,4 @@
-package gravity;
+package gravity.src;
 
 public class Point {
 	public int x;

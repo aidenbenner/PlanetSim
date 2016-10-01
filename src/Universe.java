@@ -1,4 +1,4 @@
-package gravity;
+package gravity.src;
 
 import java.awt.Graphics;
 import java.util.Random;

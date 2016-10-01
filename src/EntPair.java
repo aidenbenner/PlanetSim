@@ -1,5 +1,4 @@
-package gravity;
-
+package gravity.src;
 public class EntPair {
 
 	public double ax;
